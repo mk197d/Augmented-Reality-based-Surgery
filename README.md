@@ -4,8 +4,11 @@ Augmented Reality (AR) application developed in **Unity 3D** for real-time **bon
 The application overlays a **virtual bone model** onto a real-world bone (or bone model) with precise alignment and motion tracking using **fiducial markers**.
 
 ---
+## Demo
+<iframe width="560" height="315" src="demo.mp4" frameborder="0" allowfullscreen></iframe>
+---
 
-## 🚀 Features
+## Features
 
 * **Marker Detection**
 
@@ -29,7 +32,7 @@ The application overlays a **virtual bone model** onto a real-world bone (or bon
 
 ---
 
-## 📸 Project Workflow
+## Project Workflow
 
 ### **Phase 1 – Marker Detection**
 
@@ -48,7 +51,7 @@ The application overlays a **virtual bone model** onto a real-world bone (or bon
 
 ---
 
-## 📜 License
+## License
 
 This project is released under the **MIT License**.
 
