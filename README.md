@@ -5,7 +5,11 @@ The application overlays a **virtual bone model** onto a real-world bone (or bon
 
 ---
 ## Demo
-<iframe width="560" height="315" src="demo.mp4" frameborder="0" allowfullscreen></iframe>
+<video width="560" controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ---
 
 ## Features
