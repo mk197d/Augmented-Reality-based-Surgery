@@ -4,12 +4,19 @@ Augmented Reality (AR) application developed in **Unity 3D** for real-time **bon
 The application overlays a **virtual bone model** onto a real-world bone (or bone model) with precise alignment and motion tracking using **fiducial markers**.
 
 ---
-## Demo
-<video width="560" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
+## 🖼 Before & After  
+
+
+| Before | Before |
+|--------|--------|
+| <img src="images/b1.png" width="300"> | <img src="images/b2.png" width="300"> |
+
+| After | After |
+|-------|-------|
+| <img src="images/a1.png" width="300"> | <img src="images/a2.png" width="300"> |
+
+A video of the whole registration process is present in the directory named as demo.mp4
 ---
 
 ## Features
